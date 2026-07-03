@@ -236,3 +236,6 @@ class Yolo_Detection_Model:
                 
         return classification, render_image
     
+
+
+
