@@ -1,31 +1,15 @@
-# Web interface
-streamlit
-
-# Computer Vision and Image Processing
-opencv-python
-Pillow
-ultralytics
-
-# Scientific Computing
-#numpy
-
-# Deep Learning
-#torch
-#torchvision
-
-# Logging
-python-json-logger
-
-# Model Download 
-requests
-
-# Progress Bar
-tqdm
-
-# Production Deployment
-gunicorn
+# Backend Framework
+fastapi
 uvicorn
 
-# GPU Support
+# Image Processing Libraries
+opencv-python
+pillow
+ultralytics
+
+# Core Python Libraries
+numpy
+
+# Model and Training Libraries
 torch
 torchvision
