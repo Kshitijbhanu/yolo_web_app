@@ -60,3 +60,5 @@ def convert_base64_from_image(image: np.ndarray, format = "jpeg"):
     
     image_format = f"image/{format}"
     return f"data:{image_format};base64,{encoded_image_str}"
+
+
